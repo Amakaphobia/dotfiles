@@ -1,0 +1,380 @@
+ls -A
+which zsh
+chsh akio
+mv .zshrc .zshrc.bak
+touch .zshrc
+cat .zshrc.bak > .zshrc
+echo "hello world"
+zinit
+zypper in starship
+sudo zypper in starship
+nvim zshrc
+ls -lisA
+whoami
+git status
+RM exit
+rm /home/akio/.local/state/nvim/swap//%home%akio%.zshrc.swp
+curl google.com
+curl example.com
+cd usr
+cd bin
+cd .config/kitty
+sudo zypper in neofetch
+zypper search zoxide
+zypper in zoxide
+sudo zypper in zoxide
+git clone http://github.com/Amakaphobia/TodoVault ./Vault
+ssh-keygen -h
+ssh-keygen
+man ssh-keygen
+mkdir ssh
+cd ssh
+rmdir ssh
+ssh-keygen -t ed25519 -C amakaphobia@github.com
+cat github
+git clone amakaphobia@github.com:amakaphobia/todovault.git ./Vault
+rm /*
+rm ./*
+cd ../Documents
+mkdir vault
+git clone h.daive89@gmail.com:amakaphobia/ToDoVault.git
+git clone h.daive89@gmail.com:amakaphobia/ToDoVault.git ./Documents/vault
+cd $INFORMIXDIR
+cd $INFORMIXDIR/etc/
+ls | grep host
+cat host.conf
+cat hostname
+cat hosts
+cat hosts.allow
+git clone git@github.com:Amakaphobia/TodoVault.git ./Documents/vault
+clip < ~/.ssh/github.pub
+sudo zypper in clip
+zypper in cliclear
+cat ~/.ssh/github.pub | clip
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/github
+git clone git@github.com:Amakaphobia/TodoVault.git ./vault
+cd Documents
+rm -rf ./vault
+curl -s "https://get.sdkman.io"|bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+curl -h
+sudo zypper in zip
+curl "https://get.sdkman.io" | bash
+source "~/.sdkman/bin/sdkman-init.sh"
+source "/home/akio/.sdkman/bin/sdkman-init.sh"
+sdk version
+sdk list
+sdk install java
+sdk install gradle
+gradle
+zypper help
+zypper help|less
+sudo zypper up
+zypper ps -s
+lL
+find / nvim
+find -h
+man find
+find / neovim
+cd kitty
+nvim kitty.conf
+source kitty.conf
+test
+echo "Hi this is a string"
+cd .config/kitty/kitty.conf
+sudo zypper in ripgrep
+sudo zypper in node
+zypper search node
+zypper search node|less
+zypper search nodejs22
+sudo zypper in nodejs22
+cd .config
+mkdir nvim
+cd nvim
+touch lazy.lua
+mkdir lua
+cd lua
+mkdir akio
+cd akio
+mkdir core
+mkdir puglins
+rmdir puglins
+mkdir plugins
+cd ../..
+cd lua/akio/core
+touch keymaps.lua
+touch options.lua
+mv lazy.lua lua/
+touch init.lua
+mv lua/lazy.lua lua/akio/
+neofetch
+which nvim
+cd Pictures
+cd wallpaper
+mv redhead.jpg /usr/share/wallpapers
+sudo mv redhead.jpg /usr/share/wallpapers
+mkdir -p ~/.local/share/kservices5 && cp ~/.local/share/kwin/scripts/forceblur/metadata.desktop ~/.local/share/kservices5/forceblur.desktop
+rmdir ~/.local/share/kservices5
+cleaR
+zypper search make
+zypper search make |less
+sudo zypper in make
+zypper search fzf |less
+sudo zypper in fzf
+fzf
+nvim .
+c
+zypper search "c compiler"
+gcc
+gc
+nvim ../kitty/kitty.conf
+\:q
+cc
+zypper search cc
+zypper search cc | grep "\| cc"
+zypper search cc | grep "| cc"
+zypper search cc | less
+zypper search build-essential
+zypper search gcc
+sudo zypper in gcc
+nvim .config/nvim
+nvim .config/kitty/kitty.conf
+nvim .config/nvim/
+zypper search lazygit
+sudo zypper in lazygit
+touch firstfile
+lazygit
+rm -rif ./test
+java -verson
+java -version
+sdk
+sdk list java 19
+sdk uninstall java
+sdk uninstall java 21.0.3
+sdk uninstall jdk
+sdk install java 19
+sdk list java 
+sdk list java | grep " 19."
+sdk install java 17.0.10-tem
+sdk install kotlin
+sdk current
+mkdir test
+cd test
+cd .config/nvim
+rm /home/akio/.local/state/nvim/swap//%home%akio%.config%nvim%lua%akio%plugins%lsp%lspconfig.lua.swp
+nvim
+cd gradle
+gradle help
+gradle tasks
+gradle clean
+gradlew help
+gradlew --help
+gradlew build
+gradle build
+gradle run
+rm -ri ./*
+y
+yls
+rm -rf ./*
+rm -h
+rm --help
+rm .gitattributes
+rm .gitignore
+rm .gradle .project .settings
+rmdir .gradle .settings
+rm -rf .gradle .settings
+git clone git@github.com:Amakaphobia/DCom.git
+cd .ssh
+cat known_hosts
+cat github.pub
+nvim github.pub
+ssh -vT git@github.com
+ssh-keygen -t ed25519 -C h.daive89@gmail.com
+rm github
+rm github.pub
+nvim id_ed25519.pub
+ssh-add -l -E sha256
+ssh -T git@github.com
+cd ~/test
+git clone git@github.com:Amakaphobia/DCom.git 
+cd Dc
+cd DCom
+cd src/main/java/com/example/dcom/
+cd -
+git checkout main
+git pull
+cd src/main/java/com/example/dcom/model/elements/character/sheet/CharacterSheet
+nvim src/main/java/com/example/dcom/model/elements/character/sheet/CharacterSheet
+nvim src/main/java/com/example/dcom/model/elements/character/sheet/CharacterSheet.java
+gradle init
+rm -rf test
+zypper search qtile
+zypper search gnu stow
+zypper search "gnu stow"
+zypper search stow
+zypper
+zypper if stow
+sudo zypper in stow
+sudo zypper in htop
+sudo zypper in bat
+nvim .zshrc
+source .zshrc
+git config --global user.name
+git config --global user.name Akio
+git config --global user.email h.daive89@gmail.com
+cat .gitconfig
+clear
+git clone git@github.com:Amakaphobia/dotfiles.git
+dotfiles
+stow
+stow -snvt ~ .zshrc
+stow -Snvt ~ .zshrc
+stow -Snvt .zshrc
+mkdir zsh
+touch zsh/.zshrc
+tree
+tree -a
+stow -Snvt zsh
+stow -Snvt ~ zSh
+stow -nvt ~ zSh
+zsh
+cd zsh
+rm .zshrc.bak
+cd dotfiles/
+touch zsh/.zsh_histfile
+stow --adopt -nvt ~ zsh
+stow --adopt -vt ~ zsh
+cd dotfiles
+mkdir bash
+touch bash/.bash_history
+touch bash/.bashrc
+stow --adopt -nvt ~ bash
+sudo stow --adopt -vt ~ bash
+cat .zshrc
+bat .config/kitty/kitty.conf
+mkdir ./.local/share/wallpapers
+cd /
+cd
+mv Downloads/wallpaper dotfiles/wallpapers/.local/share/wallpapers
+mv -p Downloads/wallpaper dotfiles/wallpapers/.local/share/wallpapers
+sudo zypper in fuck
+sudo zypper in fk
+sudo zypper search fuck
+sudo zypper in thefuck
+sudo zypper in tldr
+zypper search tldr
+npm install -g tldr
+sudo npm install -g tldr
+tldr mv
+htop
+mv -p ~/Downloads/wallpaper/* ~/dotfiles/wallpapers/.local/share/wallpapers/
+mkdir -p ~/.local/share/wallpapers/waifu
+mkdir -p ~/dotfiles/wallpapers/.local/share/wallpapers/waifu
+mv ~/Downloads/wallpaper/* ~/dotfiles/wallpapers/.local/share/wallpapers/
+cd dotfiles/wallpapers/
+cd .local
+cd share
+cd wallpapers
+cd waifu
+dolphin .
+mv /usr/share/wallpapers/redhead.jpg ~/dotfiles/wallpapers/.local/share/wallpapers/waifu
+sudo mv /usr/share/wallpapers/redhead.jpg ~/dotfiles/wallpapers/.local/share/wallpapers/waifu
+stow wallpapers
+cd ..
+cd .local/share/wallpapers/waifu
+ls
+pwd
+ll
+exit
+: 1717162519:0;ls
+: 1717162524:0;cd dotfiles/
+: 1717162525:0;ls
+: 1717162550:0;mkdir -p .config/nvim/
+: 1717162559:0;cd ..
+: 1717162572:0;cd dotfiles/
+: 1717162582:0;mkdir nvim
+: 1717162592:0;mv .config nvim/
+: 1717162595:0;cd nvim
+: 1717162596:0;tree
+: 1717162600:0;tree -a
+: 1717162610:0;cd ..
+: 1717162620:0;cd .config/nvim
+: 1717162622:0;ls
+: 1717162658:0;mv ./* ~/dotfiles/nvim/.config/nvim
+: 1717162660:0;ls
+: 1717162666:0;cd ../..
+: 1717162673:0;cd dotfiles
+: 1717162688:0;stow -nvt ~ nvim
+: 1717162728:0;cd nvim/.config/nvim/lua
+: 1717162729:0;ls
+: 1717162735:0;cd ../..
+: 1717162740:0;stow -nvt ~ nvim
+: 1717162748:0;stow -vt ~ nvim
+: 1717162754:0;cd ..
+: 1717162808:0;cd dotfiles
+: 1717162808:0;ls
+: 1717162811:0;ll
+: 1717162844:0;nvim README.md
+: 1717163012:0;git status
+: 1717163077:0;mkdir -p kitty/.config/kitty/
+: 1717163092:0;touh kitty/.config/kitty/kitty.conf
+: 1717163094:0;fuck
+: 1717163107:0;thefuck
+: 1717163110:0;touh kitty/.config/kitty/kitty.conf
+: 1717163112:0;thefuck
+: 1717163126:0;touch kitty/.config/kitty/kitty.conf
+: 1717163141:0;stow -nvt ~ kitty
+: 1717163151:0;stow --adopt -nvt ~ kitty
+: 1717163166:0;stow --adopt -vt ~ kitty
+: 1717163171:0;cd ..
+: 1717163172:0;ll
+: 1717163184:0;cd dotfiles
+: 1717163188:0;mkdir git
+: 1717163194:0;touch .gitconfig
+: 1717163196:0;cd ..
+: 1717163203:0;stow --adopt -nvt ~ git
+: 1717163217:0;cd dotfiles
+: 1717163219:0;stow --adopt -nvt ~ git
+: 1717163229:0;ll
+: 1717163246:0;ls
+: 1717163265:0;ll
+: 1717163278:0;mv .gitconfig git/
+: 1717163283:0;stow --adopt -nvt ~ git
+: 1717163288:0;stow --adopt -vt ~ git
+: 1717163290:0;cd ..
+: 1717163291:0;ls
+: 1717163292:0;ll
+: 1717163313:0;cd dotfiles
+: 1717163320:0;stow --adopt -nvt ~ zsh
+: 1717163327:0;stow --adopt -vt ~ zsh
+: 1717163331:0;cd ..
+: 1717163333:0;ls
+: 1717163335:0;ll
+: 1717163365:0;cd .config
+: 1717163366:0;ll
+: 1717163429:0;cd fontconfig
+: 1717163430:0;ls
+: 1717163431:0;ll
+: 1717164124:0;bat cd ..
+: 1717164128:0;cd ..
+: 1717164142:0;bat kwinrc
+: 1717164175:0;bat kwinoutputconfig.json
+: 1717164221:0;ll
+: 1717164311:0;cd
+: 1717167784:0;cd dotfiles
+: 1717167786:0;ls
+: 1717167790:0;cd wallpapers
+: 1717167791:0;ls
+: 1717167795:0;cd .local
+: 1717167795:0;ls
+: 1717167797:0;cd s
+: 1717167802:0;cd sh
+: 1717167804:0;cd share
+: 1717167812:0;ls
+: 1717167822:0;mv crying.png wallpapers/waifu
+: 1717167829:0;cd wallpapers/waifu
+: 1717167830:0;ls
+: 1717167832:0;ll
+: 1717169820:0;cd ..
+: 1717169825:0;lazygit
