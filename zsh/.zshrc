@@ -26,7 +26,8 @@ zstyle ':complition:*' menu no
 zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
-alias ll='ls -lisA --color'
+alias la='ls -lisA --color'
+alias ll='ls -l --color'
 alias cat='bat'
 
 # start starship
